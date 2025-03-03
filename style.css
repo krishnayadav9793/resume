@@ -1,0 +1,44 @@
+body {
+    background-color:lightblue;
+    background-image: image-set(border white);
+}
+
+p{
+    color: black;
+    border: whitesmoke;
+    width: 20;
+}
+
+header{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    margin-left:225px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    
+}
+button{
+    background-color: red;
+    position: middle;
+}
+
+    
+head{
+    background-color: white;
+    border-image-width: black;
+    border: white;
+}
+.heading{
+    color: black;
+    background-color: pink;
+}
+footer{
+    text-align: center;
+}
+ul{
+    left: 150px;
+}
