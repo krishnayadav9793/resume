@@ -8,7 +8,11 @@ p{
     border: whitesmoke;
     width: 20;
 }
-
+#mainphoto{
+    position: absolute;
+    right: 0px;
+    left: 1000px;
+}
 header{
     text-align: center;
     text-decoration: underline;
@@ -16,7 +20,7 @@ header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 img{
-    margin-left:225px;
+    margin-left:px;
     margin-top: 12px;
     margin-bottom: 12px;
     
