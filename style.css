@@ -10,7 +10,7 @@ p{
 }
 #mainphoto{
     position: absolute;
-    left: 1200px;
+    left: end;
 }
 header{
     text-align: center;
